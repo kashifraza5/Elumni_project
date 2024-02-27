@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Elumni_project/static/css/main.b1f7a006.css",
+    "main.js": "/Elumni_project/static/js/main.cb64278c.js",
+    "static/js/592.d2daad70.chunk.js": "/Elumni_project/static/js/592.d2daad70.chunk.js",
+    "static/media/2.jpg": "/Elumni_project/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/night.jpg": "/Elumni_project/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Elumni_project/index.html",
+    "main.b1f7a006.css.map": "/Elumni_project/static/css/main.b1f7a006.css.map",
+    "main.cb64278c.js.map": "/Elumni_project/static/js/main.cb64278c.js.map",
+    "592.d2daad70.chunk.js.map": "/Elumni_project/static/js/592.d2daad70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f7a006.css",
+    "static/js/main.cb64278c.js"
+  ]
+}
