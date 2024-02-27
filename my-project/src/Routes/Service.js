@@ -3,6 +3,8 @@ import Navbar from '../components/Navbar'
 import Hero from '../components/Hero';
 import Footer from '../components/Footer';
 import Trip from '../components/Trip';
+import Crusal from '../components/MultipulesItems';
+import MultipleItems from '../components/MultipulesItems';
 // import Aboutimg from "../assets/night.jpg"
 const Service = () => {
   return (
@@ -13,6 +15,7 @@ const Service = () => {
             title = "Services"
              url = "/"
              btnClass = "show"/>
+      {/* <MultipleItems/> */}
       <Trip/>
       <Footer/> 
     </div>
